@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: "root@0x0:~# whoami" 
 permalink: /whoami
 ---
