@@ -4,9 +4,11 @@ title: "root@0x0:~# whoami"
 permalink: /whoami
 ---
 
+### root@0x0:~# whoami
+
 I am an enthusiast in Offensive Security, specializing in Red Team operations and Cloud Security Operations. Currently, I work as a Unix/Linux Systems Administrator, and I also have experience in Vulnerability Analysis and Pentesting with a background in a large Brazilian bank.
 
-## about me
+#### about me
 
 - Academic Background:
   Bachelor's degree in Information Security from FATEC Americana.
