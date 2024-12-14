@@ -1,10 +1,10 @@
 ---
 layout: default
-title: "root@0x0:~# ls writeups/"
 permalink: /posts/writeups/index
 ---
 
-## TryHackMe
+### root@0x0:~# ls ~/writeups/
+#### TryHackMe
 
 [Bounty Hacker](./thm_bounty-hacker): A walkthrough of the "Bounty Hacker" box, focusing on FTP misconfigurations and privilege escalation.
 
