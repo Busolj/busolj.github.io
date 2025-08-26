@@ -1,0 +1,9 @@
+.avatar {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 150px;       /* ajuste o tamanho desejado */
+  height: 150px;      /* mantém proporção quadrada */
+  border-radius: 50%; /* deixa circular */
+  border: 3px solid #94E2D5; /* opcional: borda com cor neon discreta */
+}
